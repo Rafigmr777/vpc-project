@@ -1,5 +1,5 @@
 # vpc-project
-This is a terraform demo vpc project
+This is a terraform project that provisions a highly available web application using an Application Load Balancer (ALB), EC2 instances, and an S3 bucket. 
 
 
 Please select ami id of ubuntu machine in case you are using userdata.sh and userdata1.sh
